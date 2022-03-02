@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\bin\Debug\Quanlibaohanhdientu.exe.config
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\bin\Debug\Quanlibaohanhdientu.exe
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\bin\Debug\Quanlibaohanhdientu.pdb
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.Properties.Resources.resources
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.exe
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.pdb
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.Dangnhap.resources
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.FProfile.resources
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.Form2.resources
+C:\Users\admin\source\repos\Quanlibaohanhdientu\Quanlibaohanhdientu\obj\Debug\Quanlibaohanhdientu.Hoadonbanhang.resources
